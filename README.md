@@ -29,7 +29,7 @@ This package was developed in **ROS melodic** on **Ubuntu 18.04 LTS**
 - Press Esc to exit program
 
 <p align="center">
-  <img src="./README_images/joy.gif" width="300" title="bot">
+  <img src="./README_images/joy.gif" width="600" title="bot">
 </p>
 <p align="center">
     Fig: Using the GUI
